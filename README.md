@@ -1,6 +1,6 @@
 # SSInAppPurchaseManage
 
-[![CI Status](https://img.shields.io/travis/swetasheth29/SSInAppPurchaseManage.svg?style=flat)](https://travis-ci.org/swetasheth29/SSInAppPurchaseManage)
+[![CI Status](https://img.shields.io/travis/swetasheth-ios/SSInAppPurchaseManage.svg?style=flat)](https://travis-ci.org/swetasheth-ios/SSInAppPurchaseManage)
 [![Version](https://img.shields.io/cocoapods/v/SSInAppPurchaseManage.svg?style=flat)](https://cocoapods.org/pods/SSInAppPurchaseManage)
 [![License](https://img.shields.io/cocoapods/l/SSInAppPurchaseManage.svg?style=flat)](https://cocoapods.org/pods/SSInAppPurchaseManage)
 [![Platform](https://img.shields.io/cocoapods/p/SSInAppPurchaseManage.svg?style=flat)](https://cocoapods.org/pods/SSInAppPurchaseManage)
@@ -22,7 +22,7 @@ pod 'SSInAppPurchaseManage'
 
 ## Author
 
-swetasheth29, swetasheth.ios@gmail.com
+Sweta Sheth, swetasheth.ios@gmail.com
 
 ## License
 
